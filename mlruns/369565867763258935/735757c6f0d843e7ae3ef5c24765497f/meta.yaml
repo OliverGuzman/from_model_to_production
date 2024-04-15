@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/olive/Projects/Uni/Project_Model_Production/mlruns/369565867763258935/735757c6f0d843e7ae3ef5c24765497f/artifacts
+end_time: 1712879160965
+entry_point_name: ''
+experiment_id: '369565867763258935'
+lifecycle_stage: active
+run_id: 735757c6f0d843e7ae3ef5c24765497f
+run_name: handsome-dove-713
+run_uuid: 735757c6f0d843e7ae3ef5c24765497f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712879141075
+status: 3
+tags: []
+user_id: unknown

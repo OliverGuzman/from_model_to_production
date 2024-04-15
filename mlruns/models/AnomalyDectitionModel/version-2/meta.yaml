@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1712878651355
+current_stage: None
+description: null
+last_updated_timestamp: 1712878651355
+name: AnomalyDectitionModel
+run_id: f58e9d8121dd44a59610af5fbd03e5cc
+run_link: null
+source: file:///C:/Users/olive/Projects/Uni/Project_Model_Production/mlruns/369565867763258935/f58e9d8121dd44a59610af5fbd03e5cc/artifacts/Anomaly_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/olive/Projects/Uni/Project_Model_Production/mlruns/369565867763258935/f58e9d8121dd44a59610af5fbd03e5cc/artifacts/Anomaly_model
+user_id: null
+version: 2

@@ -1,0 +1,25 @@
+artifact_path: Anomaly_model
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.10.9
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.16.1
+    model_type: keras
+    save_format: tf
+mlflow_version: 2.11.3
+model_size_bytes: 63112
+model_uuid: d47137f3d10a4afb929eefbbae6c6fe7
+run_id: e161f5c2380b4fb98ae3efcc7548d328
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 5]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1,
+    5]}}]'
+  params: null
+utc_time_created: '2024-04-11 23:25:47.108670'

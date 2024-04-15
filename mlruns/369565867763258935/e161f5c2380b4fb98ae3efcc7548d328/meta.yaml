@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/olive/Projects/Uni/Project_Model_Production/mlruns/369565867763258935/e161f5c2380b4fb98ae3efcc7548d328/artifacts
+end_time: 1712877964586
+entry_point_name: ''
+experiment_id: '369565867763258935'
+lifecycle_stage: active
+run_id: e161f5c2380b4fb98ae3efcc7548d328
+run_name: welcoming-donkey-273
+run_uuid: e161f5c2380b4fb98ae3efcc7548d328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712877897979
+status: 3
+tags: []
+user_id: unknown
